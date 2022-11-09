@@ -30,7 +30,7 @@ function getRandomGreeting() {
         'Good luck.',
         'How do you do?',
         'Pleased to meet you.',
-        'Happy to meet you',
+        'Happy to meet you.',
         'What have you been up to?',
         'How are you?',
         'How are things?',
